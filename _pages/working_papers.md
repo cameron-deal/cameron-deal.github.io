@@ -8,6 +8,15 @@ author_profile: true
 {% for post in site.working_papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
+**“Health Disparities Among Transgender and Gender Questioning Youth”**
+Gilbert Gonzales, Cameron Deal. *Under Review.*
+
+**“Gender Minority Youth Homelessness: Types of Homelessness and Health**
+Implications” Cameron Deal, Riya Doshi, Gilbert Gonzales. *Under Review.*
+
+**“The Gay Agenda: LGB Political Participation and Issue Publics”** Cameron
+Deal.
+
 
 # Works in Progress
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
