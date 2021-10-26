@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Cameron Deal
+## Cameron Deal
 B.A. Candidate in Mathematics, Public Policy 
+
 *Vanderbilt University, Class of 2024*
 
-## Research Fields
+### Research Fields
 <u>Primary</u>
 
