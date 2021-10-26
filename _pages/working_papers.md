@@ -9,7 +9,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Works in Progress:
+# Works in Progress
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
 
