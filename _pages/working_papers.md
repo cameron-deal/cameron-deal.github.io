@@ -4,7 +4,6 @@ title: "Working Papers"
 permalink: /working-papers/
 author_profile: true
 ---
-# Completed Working Papers:
 
 {% for post in site.working_papers reversed %}
   {% include archive-single.html %}
