@@ -1,9 +1,9 @@
 ---
-title: "Public Policy Research Methods"
+title: "PPS 3200: Public Policy Research Methods"
 collection: teaching
 type: "Teaching Assistant, Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Vanderbilt University, Program for Public Policy Studies"
+venue: "Vanderbilt University"
 date: 2021-01-01
 location: "Nashville, Tennesee"
 ---
