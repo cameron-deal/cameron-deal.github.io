@@ -11,6 +11,6 @@ redirect_from:
 B.A. Candidate in Mathematics, Public Policy 
 *Vanderbilt University, Class of 2024*
 
-## 
-
+## Research Fields
+<u>Primary</u>
 
