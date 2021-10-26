@@ -8,13 +8,4 @@ date: 2021-01-01
 location: "Nashville, Tennesee"
 ---
 
-Surveys in public policy analysis. Types, design, modes of implementation,sampling strategies, and data collection. Data management, cleaning, and anal-ysis. Created Stata programming assignments, assisted with Stata instruction and grading of programming assignments.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Surveys in public policy analysis. Types, design, modes of implementation,sampling strategies, and data collection. Data management, cleaning, and analysis. Created Stata programming assignments, assisted with Stata instruction and grading of programming assignments.
