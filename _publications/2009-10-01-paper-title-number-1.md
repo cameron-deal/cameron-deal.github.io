@@ -10,6 +10,6 @@ citation: 'Harry Barbee, Cameron Deal, Gilbert Gonzales. (2021). &quot;Anti-Tran
 ---
 This paper synthesizes existing LGBTQ health research and its implications for anti-transgender legislation and transgender youth. We focus specifically on access to gender-affirming care and sports participation for transgender youth.
 
-#[Download paper here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)
+[Download paper here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)
 
 Recommended citation: Harry Barbee, Cameron Deal, Gilbert Gonzales. (2021). &quot;Anti-Transgender Legislation—A Public Health Concern for Transgender Youth.&quot; <i>JAMA Pediatrics</i>. 
