@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I study LGBTQ policy across several disciplines, including economics, political science, and health services research. My research has specifically examined health risk and access disparities, youth homelessness, political participation, and the effects of health policies on same-sex households. My work has appeared in *JAMA Pediatrics*.
+I study LGBTQ policy across several disciplines, including economics, political science, and health services research. My research has specifically examined health risk and access disparities, youth homelessness, political participation, and the effects of health policies on same-sex households. My work has appeared in *JAMA Pediatrics* and *JAMA*.
 
 ## Cameron Deal
 B.A. Candidate in Mathematics, Public Policy 
