@@ -19,7 +19,7 @@ B.A. Candidate in Mathematics, Public Policy
 
 <u>Main Topics of Interest:</u> LGBTQ Policy, Youth Homelessness, Health Disparities, Causal Inference
 
-<u>CV:</u> [Click Here](https://cameron-deal.github.io//files/Deal_Cameron_10_2021.pdf)
+<u>CV:</u> [Click Here](https://cameron-deal.github.io//files/Deal_Cameron_04_2022.pdf)
 
 <u>Contact Information:</u> [cameron.h.deal@vanderbilt.edu](cameron.h.deal@vanderbilt.edu)
 
