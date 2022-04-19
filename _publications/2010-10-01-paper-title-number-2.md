@@ -7,12 +7,11 @@ excerpt: 'We study disparities in health risk behaviors between gender minority 
 date: 2022-04-19
 venue: 'JAMA'
 #paperurl: 'https://jamanetwork.com/journals/jama/fullarticle/2791237'
-citation: 'Gilbert Gonzales, Cameron Deal. (2022). &quot;Health Risk Factors and Outcomes Among Gender Minority High School Students in
+#citation: 'Gilbert Gonzales, Cameron Deal. (2022). &quot;Health Risk Factors and Outcomes Among Gender Minority High School Students in
 15 US States&quot; <i>JAMA</i>.'
 ---
-#This paper is about the number 2. The number 3 is left for future work.
 
-#[Download paper here](https://jamanetwork.com/journals/jama/fullarticle/2791237)
+[Download paper here](https://jamanetwork.com/journals/jama/fullarticle/2791237)
 
 Recommended citation: Gilbert Gonzales, Cameron Deal. (2022). &quot;Health Risk Factors and Outcomes Among Gender Minority High School Students in
 15 US States&quot; <i>JAMA</i.
