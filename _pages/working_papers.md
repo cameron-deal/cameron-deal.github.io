@@ -9,8 +9,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Revise and Resubmit,* **Economics Letters.**
-
 **“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Under Review.*
 
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
