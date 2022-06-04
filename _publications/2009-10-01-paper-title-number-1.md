@@ -12,4 +12,3 @@ This paper synthesizes existing LGBTQ health research and its implications for a
 
 [Download paper here](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)
 
-Recommended citation: Harry Barbee, Cameron Deal, Gilbert Gonzales. (2021). &quot;Anti-Transgender Legislation—A Public Health Concern for Transgender Youth.&quot; <i>JAMA Pediatrics</i>. 
