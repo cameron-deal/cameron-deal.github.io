@@ -9,13 +9,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Under Review.*
+**“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Revise and Resubmit, Journal of Adolescent Health*
 
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
-Gilbert Gonzales.
+Gilbert Gonzales. *Under Review.*
 
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
-Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal.
+Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Under Review.*
 
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
