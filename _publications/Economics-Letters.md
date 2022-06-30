@@ -11,6 +11,6 @@ citation: 'Deal, Cameron. (2022). &quot;Bound By Bostock: The Effect of Policies
 ---
 Bostock v. Clayton County improved attitudes towards LGBT people. Respondents with the most unfavorable attitudes had larger improvements. The effects are driven by those interested in government, men, and Republicans
 
-#[Download paper here]()
+[Download paper here](https://doi.org/10.1016/j.econlet.2022.110656)
 
-#Recommended citation: 
+
