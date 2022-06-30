@@ -1,7 +1,7 @@
 ---
 title: "Bound By Bostock: The Effect of Policies on Attitudes"
 collection: publications
-permalink: /publication/bound-by-bostock
+permalink: /publication/2022-Economics-Letters
 excerpt: 'Bostock v. Clayton County improved attitudes towards LGBT people. Respondents with the most unfavorable attitudes had larger improvements. The effects are driven by those interested in government, men, and Republicans.
 '
 date: 2022-06-15
