@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sunrise"
 highlighter: rouge
 lsi: false
