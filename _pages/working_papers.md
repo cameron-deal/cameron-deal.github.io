@@ -18,7 +18,7 @@ Gilbert Gonzales. *Under Review.*
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Under Review.*
 
-**[“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”](https://cameron-deal.github.io//files/medicaid_exp_text_072022.pdf)** Cameron Deal.
+**[“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”](https://cameron-deal.github.io//files/medicaid_exp_text_080122.pdf)** Cameron Deal.
 
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
