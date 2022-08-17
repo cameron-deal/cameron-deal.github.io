@@ -28,9 +28,6 @@ Cameron Deal, Gilbert Gonzales.
 **“Transgender Mental Health and Health Access Disparities: Evidence from the Household Pulse Survey”** Abinaya Ramakrishnan, Cameron Deal, Gilbert Gonzales, Tara
 McKay, Harry Barbee, Kirsty Clark.
 
-**“Minority Stress, Double Discrimination, and Bisexual Youth Health”** Riya Doshi,
-Cameron Deal, Meredith Denney, Gilbert Gonzales.
-
 **“The Gay Agenda: LGB Political Participation and Issue Publics”** Cameron Deal.
 
 {% if author.googlescholar %}
