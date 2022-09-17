@@ -14,7 +14,7 @@ author_profile: true
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 
-######[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)
+<span style="font-size:2em;">[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)</span>
 
 
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
