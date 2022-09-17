@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Cameron Deal"
   avatar           : "profile_picture.jpg"
-  bio              : "Research Assistant, LGBT Policy Lab"
-  location         : "Vanderbilt University"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_mLdYU8AAAAJ"
