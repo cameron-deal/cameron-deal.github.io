@@ -9,6 +9,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 # Publications
+**“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)]</span>
+
+& ``Health Risk Factors and Outcomes Among Gender Minority High School Students in 15 US States" Gilbert Gonzales, \textbf{Cameron Deal}. \textit{JAMA.} (2022) doi:  \href{https://jamanetwork.com/journals/jama/fullarticle/2791237}{10.1001/jama.2022.3087} \\ 
+& \\
+
+& ``Anti-Transgender Legislation—A Public Health Concern for Transgender Youth" Harry Barbee, \textbf{Cameron Deal}, Gilbert Gonzales. \textit{JAMA Pediatrics.} (2021) doi:  \href{https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018}{10.1001/jamapediatrics.2021.4483}  \\
+& \\
 
 
 # Working Papers
@@ -17,12 +24,12 @@ author_profile: true
 
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
-<span style="font-size:14pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
+<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
 
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Revise and Resubmit, Health Services Research.*
 
-**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:14pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_text_080122.pdf)]</span>
+**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_text_080122.pdf)]</span>
 
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
