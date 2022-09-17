@@ -11,8 +11,10 @@ author_profile: true
 
 **“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Revise and Resubmit, Journal of Adolescent Health.*
 
-**[“Sexual Identity, Poverty, and Governmental Assistance Receipt”](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)** Cameron Deal, Shea Greenberg,
+**“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
+
+######[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)
 
 
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
