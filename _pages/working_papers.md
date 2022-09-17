@@ -8,6 +8,8 @@ author_profile: true
 {% for post in site.working_papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
+# Publications
+
 
 # Working Papers
 
