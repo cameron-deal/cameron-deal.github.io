@@ -7,22 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I study health and public economics, with a focus on LGBTQ populations. My research has specifically examined health risk and access disparities, youth homelessness, political participation, and the effects of health policies on same-sex households. My work has appeared in *JAMA Pediatrics*, *JAMA*, and *Economics Letters*.
+I am an undergraduate at Vanderbilt University and a research assistant in the [Vanderbilt LGBTQ+ Policy Lab]{https://www.vanderbilt.edu/lgbtq-policy-lab/}.
 
-## Education
-B.A. Candidate in Mathematics, Economics, Public Policy Studies
+I study health and public economics, with a focus on LGBTQ populations. My research has specifically examined health risk and access disparities, youth homelessness, intergenerational mobility, and the effects of health policies on same-sex households. My work has appeared in *JAMA Pediatrics*, *JAMA*, and *Economics Letters*.
 
-*Vanderbilt University, Class of 2024*
 
-## Research Fields
-<u>Primary:</u> Applied Microeconomics, Health, Public
-
-<u>Main Topics of Interest:</u> LGBTQ Policy, Health Disparities, Causal Inference, Youth Homelessness
-
-## Contact Information
-
-CV: [Click Here](https://cameron-deal.github.io//files/Deal_Cameron_academic.pdf)
-
-Email: [cameron.h.deal@vanderbilt.edu](cameron.h.deal@vanderbilt.edu)
-
-Twitter: [@Cameron_Deal_](https://twitter.com/Cameron_Deal_)
