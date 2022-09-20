@@ -10,11 +10,11 @@ author_profile: true
 {% endfor %}
 # Publications
 
-**“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)]</span>
+**“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
 
 **“Health Risk Factors and Outcomes Among Gender Minority High School Students in 15 US States”** Gilbert Gonzales, Cameron Deal. *JAMA.* (2022) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jama/fullarticle/2791237)]</span>
 
-**“Anti-Transgender Legislation—A Public Health Concern for Transgender Youth”** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
+**“Anti-Transgender Legislation—A Public Health Concern for Transgender Youth”** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)]</span>
 
 
 # Working Papers
