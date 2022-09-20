@@ -14,7 +14,7 @@ author_profile: true
 
 **“Health Risk Factors and Outcomes Among Gender Minority High School Students in 15 US States”** Gilbert Gonzales, Cameron Deal. *JAMA.* (2022) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jama/fullarticle/2791237)]</span>
 
-**“Anti-Transgender Legislation—A Public Health Concern for Transgender Youth”** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)][[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
+**“Anti-Transgender Legislation—A Public Health Concern for Transgender Youth”** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
 
 
 # Working Papers
