@@ -28,7 +28,7 @@ Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 **“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Revise and Resubmit, Health Services Research.*
 
-**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_text_092022.pdf)]</span>
+**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_092022.pdf)]</span>
 
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
