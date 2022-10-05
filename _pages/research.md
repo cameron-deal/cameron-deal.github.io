@@ -30,7 +30,7 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Revise
 
 **“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *Invited Submission, AEA Papers and Proceedings.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/P_P_Article.pdf)]</span>
 
-**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_092022.pdf)]</span>
+**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_100522.pdf)]</span>
 
 **"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
 Cameron Deal, Gilbert Gonzales.
