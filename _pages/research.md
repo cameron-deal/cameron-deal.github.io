@@ -10,7 +10,7 @@ author_profile: true
 {% endfor %}
 # Publications
 
-**“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Accepted, Journal of Adolescent Health.*
+**“Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Accepted, Journal of Adolescent Health.*
 
 **“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
 
