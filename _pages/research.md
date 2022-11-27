@@ -21,8 +21,6 @@ author_profile: true
 
 # Working Papers
 
-**“Gender Minority Youth Homelessness: Types of Homelessness and Health Implications”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Revise and Resubmit, Journal of Adolescent Health.*
-
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
@@ -43,6 +41,8 @@ Cameron Deal, Gilbert Gonzales.
 McKay, Harry Barbee, Kirsty Clark.
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
+
+**“The Effects of Access to Marriage”** Cameron Deal.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
