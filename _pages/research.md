@@ -10,6 +10,10 @@ author_profile: true
 {% endfor %}
 # Publications
 
+
+**“Effects of the Affordable Care Act’s Medicaid Expansion on Health Insurance Coverage for Individuals in Same-Sex Couples”** Samuel Mann,
+Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Conditionally Accepted, Health Services Research.*
+
 **“Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Accepted, Journal of Adolescent Health.*
 
 **“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
@@ -24,9 +28,6 @@ author_profile: true
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
-
-**“Medicaid Expansion and its Effects on Same-Sex Households”** Samuel Mann,
-Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Revise and Resubmit, Health Services Research.*
 
 **“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *Invited Submission, AEA Papers and Proceedings.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/P_P_Article.pdf)]</span>
 
