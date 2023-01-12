@@ -12,7 +12,7 @@ author_profile: true
 
 
 **“Effects of the Affordable Care Act’s Medicaid Expansion on Health Insurance Coverage for Individuals in Same-Sex Couples”** Samuel Mann,
-Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health Services Research.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1111/hesr.14128)] 
+Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health Services Research.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1111/1475-6773.14128)] 
 
 **“Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Accepted, Journal of Adolescent Health.*
 
