@@ -11,6 +11,8 @@ author_profile: true
 # Publications
 
 
+**“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *Forthcoming, AEA Papers and Proceedings.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/P_P_Article.pdf)]</span>
+
 **“Effects of the Affordable Care Act’s Medicaid Expansion on Health Insurance Coverage for Individuals in Same-Sex Couples”** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health Services Research.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1111/1475-6773.14128)] 
 
@@ -29,7 +31,6 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
 
-**“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *Invited Submission, AEA Papers and Proceedings.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/P_P_Article.pdf)]</span>
 
 **“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_100622.pdf)]</span> 
 
