@@ -39,12 +39,9 @@ Cameron Deal, Gilbert Gonzales.
 
 # Works in Progress
 
-**“Transgender Mental Health and Health Access Disparities: Evidence from the Household Pulse Survey”** Abinaya Ramakrishnan, Cameron Deal, Gilbert Gonzales, Tara
-McKay, Harry Barbee, Kirsty Clark.
-
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
-**“The Effects of Access to Marriage”** Cameron Deal.
+**“Interracial Marriage in the United States”** Cameron Deal.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
