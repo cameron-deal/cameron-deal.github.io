@@ -10,6 +10,7 @@ author_profile: true
 {% endfor %}
 # Publications
 
+**"Sexual Minority Youth Homelessness”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (Forthcoming)
 
 **“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *AEA Papers and Proceedings.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1257/pandp.20231055)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGXP7F)]</span>
 
@@ -32,16 +33,16 @@ Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
 
 
-**“Differences-in-Differences and Event Study Methodological Innovations: An Application to Health Economics”** Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/medicaid_exp_100622.pdf)]</span> 
-
-**"Sexual Minority Youth Homelessness: Health Disparities and Policy Implications”**
-Cameron Deal, Gilbert Gonzales.
 
 # Works in Progress
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
-**“Interracial Marriage in the United States”** Cameron Deal.
+**“Interracial Marriage in the US: The Role of Legal Barriers, Migration, and Segregation”** Cameron Deal.
+
+**“Public Housing and Credit Outcomes”** Bhashkar Mazumder, Daniel Hartley, Cameron Deal, Dawn Chinagorom-Abiakalam, Elaina Gupta, Ryan Perry
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
