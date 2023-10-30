@@ -30,7 +30,6 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health
 
 **“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
-<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_wp.pdf)]</span>
 
 **“Interracial Marriage in the US: The Role of Legal Barriers, Migration, and Segregation”** Cameron Deal.
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_marriage.pdf)]</span>
