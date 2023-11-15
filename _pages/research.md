@@ -34,12 +34,15 @@ Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 **“Interracial Marriage in the US: The Role of Legal Barriers, Migration, and Segregation”** Cameron Deal.
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_marriage.pdf)]</span>
 
+# Other Publications
+
+**“Neighborhoods with Public Housing: Tracking Their Residents’ Financial Health and Visiting Patterns”** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, and Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
 
 # Works in Progress
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
-**“Public Housing and Credit Outcomes”** Bhashkar Mazumder, Daniel Hartley, Cameron Deal, Dawn Chinagorom-Abiakalam, Elaina Gupta, Ryan Perry
+**“Returns to Mental Health Treatment: Evidence from Bunching”** Cameron Deal, Anne Fournier
 
 
 
