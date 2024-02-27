@@ -8,6 +8,17 @@ author_profile: true
 {% for post in site.working_papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
+# Working Papers
+
+**“Exposure, Integration, and Interracial Marriage: Evidence from The Great Migration and Residential Segregation”** Cameron Deal.
+<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial.pdf)]</span>
+
+**“Interracial Couples in the United States 1850-2000: Evidence from Census Data”** Cameron Deal.
+<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
+
+**“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
+Gilbert Gonzales. *Revised and Resubmitted, Journal of Population Economics.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_020824.pdf)]</span>
+
 # Publications
 
 **"Homelessness Among Sexual Minority Youth”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)]
@@ -25,15 +36,6 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health
 
 **“Anti-Transgender Legislation—A Public Health Concern for Transgender Youth”** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)]</span>
 
-
-# Working Papers
-
-**“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
-Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
-
-**“Interracial Marriage in the US: The Role of Legal Barriers, Migration, and Segregation”** Cameron Deal.
-<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_marriage.pdf)]</span>
-
 # Other Publications
 
 **“Neighborhoods with Public Housing: Tracking Their Residents’ Financial Health and Visiting Patterns”** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, and Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
@@ -41,6 +43,8 @@ Gilbert Gonzales. *Revise and Resubmit, Journal of Population Economics.*
 # Works in Progress
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
+
+**“Returns to Mental Health Treatment: Evidence from Bunching”** Cameron Deal, Anne Fournier.
 
 **“Returns to Mental Health Treatment: Evidence from Bunching”** Cameron Deal, Anne Fournier.
 
