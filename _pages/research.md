@@ -21,7 +21,7 @@ Gilbert Gonzales. *Revised and Resubmitted, Journal of Population Economics.* <s
 
 # Publications
 
-**"Homelessness Among Sexual Minority Youth”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)]
+**"Homelessness Among Sexual Minority Youth”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3V03VM)]</span>
 
 **“Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County”** Cameron Deal. *AEA Papers and Proceedings.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1257/pandp.20231055)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGXP7F)]</span>
 
