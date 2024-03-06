@@ -28,7 +28,7 @@ Gilbert Gonzales. *Revised and Resubmitted, Journal of Population Economics.* <s
 **“Effects of the Affordable Care Act’s Medicaid Expansion on Health Insurance Coverage for Individuals in Same-Sex Couples”** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health Services Research.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1111/1475-6773.14128)] 
 
-**“Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Journal of Adolescent Health.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.jadohealth.2022.11.229)] 
+**“Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities”** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Journal of Adolescent Health.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.jadohealth.2022.11.229)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WC3JAD)]</span>
 
 **“Bound By Bostock: The Effect of Court Decisions on Attitudes”** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
 
