@@ -16,10 +16,12 @@ author_profile: true
 **“Interracial Couples in the United States 1850-2000: Evidence from Census Data”** Cameron Deal.
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
 
-**“Sexual Identity, Poverty, and Governmental Assistance Receipt”** Cameron Deal, Shea Greenberg,
-Gilbert Gonzales. *Revised and Resubmitted, Journal of Population Economics.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_020824.pdf)]</span>
+
 
 # Publications
+
+**“Sexual Identity, Poverty, and Utilization of Government Services”** Cameron Deal, Shea Greenberg,
+Gilbert Gonzales. *Accepted, Journal of Population Economics.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_020824.pdf)]</span>
 
 **"Homelessness Among Sexual Minority Youth”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3V03VM)]</span>
 
