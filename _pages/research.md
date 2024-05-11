@@ -21,7 +21,7 @@ author_profile: true
 # Publications
 
 **“Sexual Identity, Poverty, and Utilization of Government Services”** Cameron Deal, Shea Greenberg,
-Gilbert Gonzales. *Accepted, Journal of Population Economics.* <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/gov_assistance_020824.pdf)]</span>
+Gilbert Gonzales. *Journal of Population Economics.* (2024) <span style="font-size:10pt;">[[Link](https://doi.org/10.1007/s00148-024-01031-w)]</span>
 
 **"Homelessness Among Sexual Minority Youth”** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3V03VM)]</span>
 
