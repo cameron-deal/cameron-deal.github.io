@@ -40,7 +40,9 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health
 
 # Other Publications
 
-**“Neighborhoods with Public Housing: Tracking Their Residents’ Financial Health and Visiting Patterns”** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, and Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
+**“The Broadening Impact of Rising Wildfire Smoke in the United States”** Mark Borgschulte, Cameron Deal, Bhash Mazumder. *Chicago Fed Letter.* (2024) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2024/500)]</span>
+
+**“Neighborhoods with Public Housing: Tracking Their Residents’ Financial Health and Visiting Patterns”** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
 
 # Works in Progress
 
