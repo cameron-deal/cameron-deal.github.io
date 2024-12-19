@@ -10,7 +10,7 @@ author_profile: true
 {% endfor %}
 # Working Papers
 
-**“Exposure, Integration, and Interracial Marriage: Evidence from The Great Migration and Residential Segregation”** Cameron Deal. *Submitted.*
+**“Migration, Segregation, and Interracial Marriage”** Cameron Deal. *Submitted.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_121924.pdf)]</span>
 
 **“Interracial Couples in the United States 1850-2000: Evidence from Census Data”** Cameron Deal. *Reject & Resubmit, Demography.*
