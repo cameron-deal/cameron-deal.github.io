@@ -16,6 +16,9 @@ author_profile: true
 **“Interracial Couples in the United States 1850-2000: Evidence from Census Data”** Cameron Deal. *Reject & Resubmit, Demography.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
 
+# Works in Progress
+
+**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
 
 # Publications
@@ -44,13 +47,8 @@ Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health
 
 **“Neighborhoods with Public Housing: Tracking Their Residents’ Financial Health and Visiting Patterns”** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
 
-# Works in Progress
 
-**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
-**“Returns to Mental Health Treatment: Evidence from Bunching”** Cameron Deal, Anne Fournier.
-
-**“Assortative Matching and Interracial Marriage”** Cameron Deal.
 
 
 
