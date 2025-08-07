@@ -20,6 +20,7 @@ author_profile: true
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
 
+**“Characterizing Misreporters: Evidence from List Experiments”** Cameron Deal.
 
 # Publications
 
