@@ -18,10 +18,12 @@ author_profile: true
 
 # Works in Progress
 
-**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
-
 **“Characterizing Misreporters: Evidence from List Experiments”** Cameron Deal. 
 <span style="font-size:10pt;">[[Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span>
+
+**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal.
+
+**“Firms and Health”** Alex Chan, Cameron Deal, Rita Ginja, Ben Sampson.
 
 # Publications
 
