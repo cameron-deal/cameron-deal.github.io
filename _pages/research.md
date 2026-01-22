@@ -23,7 +23,7 @@ author_profile: true
 
 **“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/lgbq_mobility_draft.pdf)]</span>
 
-**“Firms and Health”** Alex Chan, Cameron Deal, Rita Ginja, Ben Sampson.
+**“Firms and Health”** Cameron Deal, Rita Ginja, Ben Sampson.
 
 # Publications
 
