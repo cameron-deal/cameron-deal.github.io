@@ -13,6 +13,8 @@ author_profile: true
 **“Migration, Segregation, and Interracial Marriage”** Cameron Deal. *Submitted.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_091925.pdf)]</span>
 
+**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/lgbq_mobility_draft.pdf)]</span>
+
 **“Interracial Couples in the United States 1850-2000: Evidence from Census Data”** Cameron Deal. *Reject & Resubmit, Demography.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
 
@@ -20,8 +22,6 @@ author_profile: true
 
 **“Characterizing Misreporters: Evidence from List Experiments”** Cameron Deal. 
 <span style="font-size:10pt;">[[Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span>
-
-**“Intergenerational Mobility of LGBTQ+ Individuals”** Santiago Deambrosi, Cameron Deal. <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/lgbq_mobility_draft.pdf)]</span>
 
 **“Firms and Health”** Cameron Deal, Rita Ginja, Ben Sampson.
 
