@@ -17,8 +17,8 @@ author_profile: true
 
 **"Interracial Couples in the United States 1850-2000: Evidence from Census Data"** Cameron Deal. *Reject & Resubmit, Demography.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
-
+<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Interracial marriage offers a measure of social integration between people of different races. Much scholar- ship has studied the legal system that regulated interracial marriage as well as media reactions to interracial relationships, but less attention has been paid to describing this population from an economic and demo- graphic point of view. I use historical Census data to study the demographic and economic characteristics of interracial couples in the United States. My results suggest: (1) laws prohibiting interracial marriage do not appear to have impacted the prevalence of interracial marriage; (2) the prevalence of interracial marriage reached a low around the turn of the 20th century; (3) interracial couples comprise an economically and demographically distinct group compared to Black and white same-race couples; (4) the composition and socioeconomic status of this group evolved over time; (5) there are important differences in economic success across couple type: interracial couples with white men tend to have higher socioeconomic status than those with Black men.</div></details>
+<div style="height: 0.75rem;"></div>
 
 # Works in Progress
 
