@@ -5,19 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
-
 **"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Submitted.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_091925.pdf)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Interracial marriage increased substantially in the late 20th century, concurrent with declines in regional and residential segregation. This paper studies whether these trends are related using two historical quasi-experiments and a stylized model of the marriage market. I use a shift-share instrument to find that the Great Migration increased interracial marriage in receiving communities, though this effect was absent in highly segregated cities. Using railroad density as an instrument, I also find that residential segregation decreased interracial marriage. Together, these findings indicate that internal migration and declining segregation contributed to the rise of interracial marriage in the non-Southern United States.</div></details>
 
 **"Intergenerational Mobility of LGBTQ+ Individuals"** Santiago Deambrosi, Cameron Deal.
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/lgbq_mobility_draft.pdf)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">We document an intergenerational mobility gap based on sexual orientation in the United States. Using a nationally representative survey, we find that LGBQ+ men achieve income ranks 6–9 per- centiles lower than heterosexual men from the same parental income rank, especially at higher parental income levels. LGBQ+ men are also less likely to follow their father’s occupation. These gaps persist when comparing LGBQ+ respondents to their heterosexual siblings. We explore a wide set of potential mechanisms, including parental relationships, mental health, and friendships.</div></details>
 
 **"Interracial Couples in the United States 1850-2000: Evidence from Census Data"** Cameron Deal. *Reject & Resubmit, Demography.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_laws.pdf)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 # Works in Progress
 
