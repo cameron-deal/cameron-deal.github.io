@@ -39,3 +39,30 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Abstract dropdown styles */
+details.abstract {
+  display: inline;
+  margin-left: 5px;
+}
+
+details.abstract summary {
+  display: inline;
+  cursor: pointer;
+  color: #0066cc;
+  font-size: 10pt;
+}
+
+details.abstract summary:hover {
+  text-decoration: underline;
+}
+
+details.abstract .abstract-content {
+  display: block;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-left: 3px solid #0066cc;
+  font-size: 10pt;
+}
