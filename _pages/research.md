@@ -1,11 +1,10 @@
 ---
 layout: archive
-title:
+title: Working Papers
 permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
 
 **"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Submitted.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_091925.pdf)]</span>
