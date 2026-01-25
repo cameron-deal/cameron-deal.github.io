@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+# Working Papers
+
 **"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Submitted.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_091925.pdf)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Interracial marriage increased substantially in the late 20th century, concurrent with declines in regional and residential segregation. This paper studies whether these trends are related using two historical quasi-experiments and a stylized model of the marriage market. I use a shift-share instrument to find that the Great Migration increased interracial marriage in receiving communities, though this effect was absent in highly segregated cities. Using railroad density as an instrument, I also find that residential segregation decreased interracial marriage. Together, these findings indicate that internal migration and declining segregation contributed to the rise of interracial marriage in the non-Southern United States.</div></details>
@@ -22,46 +24,46 @@ author_profile: true
 
 **"Characterizing Misreporters: Evidence from List Experiments"** Cameron Deal.
 <span style="font-size:10pt;">[[Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Firms and Health"** Cameron Deal, Rita Ginja, Ben Sampson.
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 # Publications
 
 **"Sexual Identity, Poverty, and Utilization of Government Services"** Cameron Deal, Shea Greenberg,
 Gilbert Gonzales. *Journal of Population Economics.* (2024) <span style="font-size:10pt;">[[Link](https://doi.org/10.1007/s00148-024-01031-w)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7Y0T6K)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Homelessness Among Sexual Minority Youth"** Cameron Deal, Gilbert Gonzales. *Pediatrics.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1542/peds.2023-062227)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3V03VM)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Heterogeneity in Public Opinion Effects: Evidence from Bostock v. Clayton County"** Cameron Deal. *AEA Papers and Proceedings.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1257/pandp.20231055)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGXP7F)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Effects of the Affordable Care Act's Medicaid Expansion on Health Insurance Coverage for Individuals in Same-Sex Couples"** Samuel Mann,
 Christopher Carpenter, Gilbert Gonzales, Benjamin Harrell, Cameron Deal. *Health Services Research.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1111/1475-6773.14128)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Gender Minority Youth Experiencing Homelessness and Corresponding Health Disparities"** Cameron Deal, Riya Doshi, Gilbert Gonzales. *Journal of Adolescent Health.* (2023) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.jadohealth.2022.11.229)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WC3JAD)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Bound By Bostock: The Effect of Court Decisions on Attitudes"** Cameron Deal. *Economics Letters.* (2022) <span style="font-size:10pt;">[[Link](https://doi.org/10.1016/j.econlet.2022.110656)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BX8SKI)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Health Risk Factors and Outcomes Among Gender Minority High School Students in 15 US States"** Gilbert Gonzales, Cameron Deal. *JAMA.* (2022) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jama/fullarticle/2791237)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UFGOS7)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Anti-Transgender Legislation—A Public Health Concern for Transgender Youth"** Harry Barbee, Cameron Deal, Gilbert Gonzales. *JAMA Pediatrics.* (2021) <span style="font-size:10pt;">[[Link](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2786018)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 # Other Publications
 
 **"The Broadening Impact of Rising Wildfire Smoke in the United States"** Mark Borgschulte, Cameron Deal, Bhash Mazumder. *Chicago Fed Letter.* (2024) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2024/500)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 **"Neighborhoods with Public Housing: Tracking Their Residents' Financial Health and Visiting Patterns"** Dawn Chinagorom-Abiakalam, Cameron Deal, Elainia Gupta, Daniel Hartley, Bhashkar Mazumder, Ryan Perry. *Chicago Fed Letter.* (2023) <span style="font-size:10pt;">[[Link](https://www.chicagofed.org/publications/chicago-fed-letter/2023/488)]</span>
-<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Add your abstract here.</div></details>
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
