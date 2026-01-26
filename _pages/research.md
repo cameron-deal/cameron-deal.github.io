@@ -21,7 +21,7 @@ author_profile: true
 
 # Works in Progress
 
-**"Characterizing Misreporters: Evidence from List Experiments"** Cameron Deal.
+**"Covariate-Dependent Reporting Bias: Methods and Application to the LGBQ Earnings Gap"** Cameron Deal.
 <span style="font-size:10pt;">[[Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span>
 
 
