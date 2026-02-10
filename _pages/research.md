@@ -23,10 +23,11 @@ author_profile: true
 
 **"Covariate-Dependent Reporting Bias: Methods and Application to the LGBQ Earnings Gap"** Cameron Deal.
 <span style="font-size:10pt;">[[Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span>
-
+<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">This paper studies covariate-dependent reporting bias of binary traits. I develop a practical method that combines a list experiment with direct measurement to estimate both overall underreporting and the characteristics and outcomes of individuals who conceal under direct questioning. In a U.S. online survey on sexual identity, indirectly elicited prevalence is roughly double the direct-report rate, implying substantial selective non-disclosure. Individuals who misreport are higher-income and exhibit lower depression and anxiety than direct LGBQ reporters. Accounting for this selection attenuates measured mental-health gaps and reverses the estimated earnings penalty.</div></details>
 
 **"Firms and Health"** Cameron Deal, Rita Ginja, Ben Sampson.
-
+<details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Where you work can affect your health via income, health benefits, stress, and direct occupational hazards. We use administrative data to estimate firm effects on health, recording substantial dispersion in health measures across firms. We study what portion of that variation reflects causal effects and decompose the effects into the contributions of various channels.</div></details>
+<div style="height: 0.75rem;"></div>
 
 # Publications
 
