@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
+excerpt: "Cameron Deal — PhD Student in Business Economics at Harvard University, studying health and labor economics."
 author_profile: true
 redirect_from: 
   - /about/
