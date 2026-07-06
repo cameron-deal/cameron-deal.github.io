@@ -40,29 +40,102 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Abstract dropdown styles */
+/* =========================================================================
+   Custom polish — professional refresh (July 2026)
+   Layered on top of the AcademicPages theme. Delete this block to revert.
+   ========================================================================= */
+
+// Restrained, accessible link blue (replaces the theme's pale cyan)
+$link-refined:       #1a5fb4;
+$link-refined-hover: #103a72;
+$ink:                #232629; // near-black for headings
+$hairline:           #e7e7e9;
+
+/* --- Links --------------------------------------------------------------- */
+.page__content a,
+.archive a {
+  color: $link-refined;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(26, 95, 180, 0.3);
+  transition: color 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    color: $link-refined-hover;
+    border-bottom-color: $link-refined-hover;
+  }
+}
+
+/* --- Reading rhythm ------------------------------------------------------ */
+.page__content,
+.archive {
+  font-size: 1.05em;
+  line-height: 1.7;
+
+  p { margin-bottom: 1.3em; }
+}
+
+/* --- Section headers: clean hairline dividers ---------------------------- */
+.page__title,
+.page__content h1,
+.archive h1 {
+  font-size: 1.4em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: $ink;
+  margin-top: 2.1em;
+  margin-bottom: 0.9em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid $hairline;
+}
+
+.page__title { margin-top: 0; } // page heading sits flush to the top
+
+.page__content h1:first-child { margin-top: 0.25em; }
+
+.page__content h2,
+.archive h2 {
+  font-size: 1.15em;
+  font-weight: 600;
+  color: $ink;
+  margin-top: 1.6em;
+}
+
+/* --- Abstract dropdown (refined) ----------------------------------------- */
 details.abstract {
   display: inline;
-  margin-left: 5px;
+  margin-left: 4px;
 }
 
 details.abstract summary {
   display: inline;
   cursor: pointer;
-  color: #0066cc;
-  font-size: 10pt;
+  color: $link-refined;
+  font-size: 0.82em;
+  font-weight: 500;
+  list-style: none;
+  border-bottom: none;
+
+  &::-webkit-details-marker { display: none; }
+  &:hover { color: $link-refined-hover; text-decoration: underline; }
 }
 
-details.abstract summary:hover {
-  text-decoration: underline;
-}
+details.abstract[open] summary { color: $link-refined-hover; }
 
 details.abstract .abstract-content {
   display: block;
-  margin-top: 10px;
-  margin-left: 20px;
-  padding: 10px;
-  background-color: #f9f9f9;
-  border-left: 3px solid #0066cc;
-  font-size: 10pt;
+  margin: 0.65em 0 0.3em;
+  padding: 0.8em 1.1em;
+  background-color: #f7f8fa;
+  border-left: 3px solid $link-refined;
+  border-radius: 0 3px 3px 0;
+  font-size: 0.9em;
+  line-height: 1.65;
+  color: #3d4043;
+}
+
+/* --- Sidebar author ------------------------------------------------------ */
+.sidebar .author__name {
+  font-size: 1.2em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
