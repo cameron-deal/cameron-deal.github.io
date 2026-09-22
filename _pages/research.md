@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-**"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Accepted, Journal of Human Resources.*
+**"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Forthcoming, Journal of Human Resources.*
 <span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_final.pdf)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LWRAJZ)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Interracial marriage increased substantially in the late 20th century, concurrently with declines in regional and residential segregation. This paper studies whether these trends are related using two historical quasi-experiments and a stylized model of the marriage market. I use a shift-share instrument to find that the Great Migration increased interracial marriage in receiving communities, though this effect was absent in highly segregated cities. Using railroad density as an instrument, I also find that residential segregation decreased interracial marriage. Together, these findings indicate that internal migration and declining segregation contributed to the rise of interracial marriage in the non-Southern United States.</div></details>
 
 **"Intergenerational Mobility of Non-Heterosexual Individuals"** Cameron Deal, Santiago Deambrosi. *Submitted.*
-<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_deambrosi_0626.pdf)]</span>
+<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_deambrosi_0926.pdf)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">We document an intergenerational mobility gap for sexual minorities in the United States. As parental income rank increases, non-heterosexual men fall further behind heterosexual men in income rank, reflecting weaker transmission of parental advantage rather than lower predicted outcomes among men from low-income families. Equalizing returns to parental advantage would eliminate the non-heterosexual income gap.  These patterns persist when comparing non-heterosexual men to their heterosexual brothers. We find modest and unsystematic mobility gaps for non-heterosexual women. Our results suggest occupational characteristics may play a role in generating these patterns.</div></details>
 
 # Works in Progress
@@ -20,7 +20,7 @@ author_profile: true
 <span style="font-size:10pt;">[[Pilot Pre-Registration](https://www.socialscienceregistry.org/trials/16555)] [[Follow-Up Pre-Registration](https://www.socialscienceregistry.org/trials/18394)] [[Slides](https://cameron-deal.github.io//files/misreporting_deck.pdf)]</span> 
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">This paper studies covariate-dependent reporting bias of binary traits. I develop a practical method that combines a list experiment with direct measurement to estimate both overall underreporting and the characteristics and outcomes of individuals who conceal under direct questioning. In a U.S. online survey on sexual identity, indirectly elicited prevalence is roughly double the direct-report rate, implying substantial selective non-disclosure. Individuals who misreport are higher-income and exhibit lower depression and anxiety than direct LGBQ reporters. Accounting for this selection attenuates measured mental-health gaps and reverses the estimated earnings penalty.</div></details>
 
-**"Firms and Health"** Cameron Deal, Rita Ginja, Ben Sampson.
+**"Sick of Work: The Effects of Employers on Health"** Cameron Deal, Rita Ginja, Ben Sampson.
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Where you work can affect your health via income, health benefits, stress, and direct occupational hazards. We use administrative data to estimate firm effects on health, recording substantial dispersion in health measures across firms. We study what portion of that variation reflects causal effects and decompose the effects into the contributions of various channels.</div></details>
 <div style="height: 0.75rem;"></div>
 
