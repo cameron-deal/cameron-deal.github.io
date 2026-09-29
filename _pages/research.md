@@ -7,7 +7,7 @@ author_profile: true
 
 
 **"Migration, Segregation, and Interracial Marriage"** Cameron Deal. *Forthcoming, Journal of Human Resources.*
-<span style="font-size:10pt;">[[Draft](https://cameron-deal.github.io//files/deal_interracial_final.pdf)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LWRAJZ)]</span>
+<span style="font-size:10pt;">[[Link](https://doi.org/10.3368/jhr.1125-14624R1)] [[Draft](https://cameron-deal.github.io//files/deal_interracial_final.pdf)] [[Replication Materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LWRAJZ)]</span>
 <details class="abstract"><summary>[Abstract]</summary><div class="abstract-content">Interracial marriage increased substantially in the late 20th century, concurrently with declines in regional and residential segregation. This paper studies whether these trends are related using two historical quasi-experiments and a stylized model of the marriage market. I use a shift-share instrument to find that the Great Migration increased interracial marriage in receiving communities, though this effect was absent in highly segregated cities. Using railroad density as an instrument, I also find that residential segregation decreased interracial marriage. Together, these findings indicate that internal migration and declining segregation contributed to the rise of interracial marriage in the non-Southern United States.</div></details>
 
 **"Intergenerational Mobility of Non-Heterosexual Individuals"** Cameron Deal, Santiago Deambrosi. *Submitted.*
